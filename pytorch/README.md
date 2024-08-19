@@ -2,7 +2,7 @@
 
 **Instructions assume a Debian based Linux platform.**
 ```bash
-sudo apt install -y docker.io
+sudo apt install -y docker.io lm-sensors
 sudo bash setup_docker.sh
 nohup sudo bash run.sh
 ```
