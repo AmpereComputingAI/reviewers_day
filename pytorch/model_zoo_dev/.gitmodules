@@ -1,0 +1,3 @@
+[submodule "ampere_model_library"]
+	path = ampere_model_library
+	url = git@github.com:AmpereComputingAI/ampere_model_library.git

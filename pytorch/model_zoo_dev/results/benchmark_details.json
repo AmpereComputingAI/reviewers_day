@@ -1,0 +1,15 @@
+{
+    "cpu_manufacturer": <e.g. 'Intel'>,
+    "cpu_model": <e.g. 'Ice Lake 8375C'>,
+    "csp_or_system_name": <e.g. 'AWS', 'OCI' or 'QuiGon' if internal>,
+    "instance_family": <e.g. 'A1', 'M6G', 'T2A' or 'bare metal' if not a VM>,
+    "instance_shape_or_core_count": <e.g. '12xlarge' or '80c' if bare metal>,
+    "memory": <e.g. '480GB'>,
+    "max_cpu_freq": <e.g. '3300MHz'>,
+    "linux_kernel": <e.g. '5.15-300'>,
+    "software_stack": <e.g., 'ubuntu 22.04 docker image + tensorflow==2.12 from PyPI (python 3.10) / ubuntu 22.04 docker image + torch==2.0.1 from PyPI (python 3.10)'>,
+    "other": <e.g. 'yo, how ya doin? doinnn fine!'>,
+    "date_conducted": <e.g. '26-09-2023'>,
+    "authors_email": <e.g. 'jan@amperecomputing.com'>,
+    "scripts": <e.g. 'https://github.com/AmpereComputingAI/benchmarks/tree/2023/09/21_r180'>
+}
